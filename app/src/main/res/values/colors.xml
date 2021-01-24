@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#636363</color>
+    <color name="colorPrimaryDark">#636363</color>
+    <color name="colorAccent">#636363</color>
+    <color name="default_white"  tools:override="true">#FFFFFF</color>
+    <color name="default_white_6_percent"  tools:override="true">#0FFFFFFF</color>
+    <color name="default_white_dark">#FAFAFA</color>
+    <color name="default_gray" tools:override="true">#636363</color>
+    <color name="default_gray_light">#707070</color>
+    <color name="default_gray_soft">#E5E5E5</color>
+    <color name="default_gray_light_extra">#979797</color>
+    <color name="main_background_color">#F0F2F6</color>
+    <color name="default_black_light">#313131</color>
+    <color name="default_black">#000000</color>
+    <color name="default_red">#D0021B</color>
+    <color name="danger_red">#FF3B30</color>
+    <color name="default_blue_light">#8F67E8</color>
+    <color name="default_blue_dark">#6357CC</color>
+    <color name="default_turquoise">#3EC8BC</color>
+</resources>

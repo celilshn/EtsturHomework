@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PhoneNumbersAppETSTUR</string>
+    <string name="persons">Kişiler</string>
+    <string name="search_person">Kişi Ara</string>
+    <string name="birth_date">Doğum Tarihi</string>
+    <string name="email">Eposta</string>
+    <string name="phone_number">Telefon Numarası</string>
+    <string name="note">Not</string>
+    <string name="add_person">Kişi Ekle</string>
+    <string name="name">Ad</string>
+    <string name="remove">Sil</string>
+    <string name="surname">Soyad</string>
+    <string name="validation_less_2_char">Giriş alanı iki karakterden küçük olamaz</string>
+    <string name="validation_more_20_char">Giriş alanı 20 karakterden fazla olamaz</string>
+    <string name="validation_only_text">Giriş alanı sadece harf ve boşluk içerebilir</string>
+    <string name="validation_required">Giriş alanı boş olamaz</string>
+    <string name="validation_not_correct_format">Eposta formatı uygun değil</string>
+    <string name="validation_more_60_char">Giriş alanı 60 karakterden fazla olamaz</string>
+    <string name="validation_fill_empty_field">Giriş alanı tamamen oluşturulmadı</string>
+    <string name="save_or_edit">Kaydet / Güncelle</string>
+    <string name="sample_birhtday_text">01/ 01/ 2021</string>
+    <string name="sample_email_text">etstur@etstur.com</string>
+    <string name="sample_phone_number_text">+90 511 111 11 11</string>
+    <string name="sample_note_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis tellus vitae ante semper tempor ut sed lorem. Pellentesque condimentum enim mollis lacus pellentesque, nec malesuada nisi elementum. Suspendisse lobortis orci at lacus dictum ultricies. Donec ante purus, maximus et sapien ut, molestie feugiat mi. Sed justo metus, condimentum sed massa vitae, commodo convallis metus. Curabitur a augue vitae velit posuere suscipit.</string>
+    <string name="save_success_message">Kayıt Başarılı</string>
+    <string name="save_error_message">Kayıt Başarısız</string>
+    <string name="update_success_message">Güncelleme Başarılı</string>
+    <string name="update_error_message">Güncelleme Başarısız</string>
+    <string name="delete">Sil</string>
+    <string name="error_delete_message">Silme İşlemi Başarısız</string>
+    <string name="validation_unknown_error">Bilinmeye bir hata mevcut</string>
+</resources>
